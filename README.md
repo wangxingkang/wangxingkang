@@ -1,1 +1,1 @@
-![1](https://repository-images.githubusercontent.com/278270387/f419de00-c1ec-11ea-9057-b52eecfddd2a)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wangxingkang)](https://github.com/anuraghazra/github-readme-stats)

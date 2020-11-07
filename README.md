@@ -1,7 +1,7 @@
 ### Hi there, I'm [wangxingkang!](https://xingkang.wang)
 
 
-Typescript、React爱好者
+- 🎉 热衷于 React & Typescript & Umi
 
 
 **Languages and Tools:**  

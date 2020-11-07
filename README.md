@@ -4,7 +4,7 @@
 
 - 🎉 热衷于 React & Typescript & Umi
 - 🌱 目前正在学习 Rollup、Babel
-- 💬 如果想向我询问任何问题，请在[这里](https://github.com/wangxingkang/wangxingkang/issues)询问
+- 💬 如果想向我询问任何问题，请在[这里](https://github.com/wangxingkang/wangxingkang/issues)询问或者加我微信`xingkang_wang`请备注`github` 
 
 
 **Languages and Tools:**  

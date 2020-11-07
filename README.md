@@ -1,7 +1,10 @@
 ### Hi there, I'm [wangxingkang!](https://xingkang.wang)
 
+您好，我是王幸康, 前端程序猿一枚.
 
 - 🎉 热衷于 React & Typescript & Umi
+- 🌱 目前正在学习 Rollup、Babel
+- 💬 如果想向我询问任何问题，请在[这里](https://github.com/wangxingkang/wangxingkang/issues)询问
 
 
 **Languages and Tools:**  

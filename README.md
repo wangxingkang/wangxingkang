@@ -1,10 +1,8 @@
 ### Hi there, I'm [wangxingkang!](https://xingkang.wang)
 
-<br />
 
 Typescript、React爱好者
 
-<br />
 
 **Languages and Tools:**  
 

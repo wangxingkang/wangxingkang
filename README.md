@@ -4,5 +4,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pansyjs&repo=react-admin)](https://github.com/pansyjs/react-admin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pansyjs&repo=watermark)](https://github.com/pansyjs/watermark)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pansyjs&repo=react-components)](https://github.com/pansyjs/react-components)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pansyjs&repo=micro-frontends-template)](https://github.com/pansyjs/micro-frontends-template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=walrusjs&repo=pansy)](https://github.com/walrusjs/pansy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=walrusjs&repo=walrus)](https://github.com/walrusjs/walrus)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pansyjs&repo=micro-frontends-template)](https://github.com/pansyjs/micro-frontends-template)
